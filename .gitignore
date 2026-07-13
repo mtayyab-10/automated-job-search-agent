@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Credentials and environment variables
+.env
+**/.env
+hireme_agent/.env
+
+# Python build and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Streamlit-specific cache/config
+.streamlit/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
