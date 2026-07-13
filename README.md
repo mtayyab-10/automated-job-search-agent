@@ -1,4 +1,4 @@
-# HireMe — AI Career Co-Pilot
+# HireMe Agent: AI Career Co-Pilot
 
 HireMe is an AI-powered multi-agent application designed to automate career assistance, resume analysis, and job matching. The system parses uploaded resumes, searches for matching opportunities using the Adzuna API, identifies skill gaps, analyzes ATS keyword matching, drafts cover letters and recruiter emails, performs salary benchmarks, and generates a 90-day action plan.
 
